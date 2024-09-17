@@ -2,7 +2,8 @@
 
 ## Обо мне
 
-![Фотография](:\Users\mvideo1\Desktop\image1.png)
+![image1](https://github.com/user-attachments/assets/52221961-a40e-40df-9d32-ad403334c607)
+
 
 Меня зовут Регина
 
