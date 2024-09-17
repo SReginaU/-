@@ -2,7 +2,7 @@
 
 ## Обо мне
 
-![Фотография](https://disk.yandex.ru/i/W4xLX9lS2zcfWQ)
+![Фотография](:\Users\mvideo1\Desktop\image1.png)
 
 Меня зовут Регина
 
